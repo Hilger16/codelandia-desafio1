@@ -13,3 +13,7 @@
     width: 100%;
     color: var(--white);
 }
+
+.main-search .search:hover, input:active, input:focus {
+    outline: none;
+}
