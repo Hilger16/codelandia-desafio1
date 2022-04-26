@@ -1,0 +1,8 @@
+.main-header {
+    background: var(--linear);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 250px;
+    width: 100%;
+}
