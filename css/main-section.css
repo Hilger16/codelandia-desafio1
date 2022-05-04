@@ -2,7 +2,21 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    max-width: 900px;
-    height: auto;
-    background-color: #b6b6b6;
+    background-color: #F3F5F7;
+}
+
+.main-section .card {
+    padding: 100px 270px 50px 270px;
+}
+
+.main-section .date {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    background-color: var(--white);
+}
+
+.main-section .main-text {
+    padding: 8px 25px;
+    background-color: var(--white);
 }
